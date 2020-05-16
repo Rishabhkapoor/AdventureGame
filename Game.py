@@ -58,10 +58,6 @@ def Cave(items, devil):
                 print_pause("\nThe Sword of Valeria shines brightly "
                             "as you prepare yourself for the "
                             "attack.")
-      
-                            "The sword shines brightly."
-                           
-                            "A huge explosion !")
                 print_pause("\n You rush to stab the" + devil + "and he takes out his weapon"
                             "But he doesn't stand in front of your shiny new sword.")
                 print_pause("\nYou have rid the town of the " + devil +
